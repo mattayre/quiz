@@ -1,0 +1,102 @@
+// example quiz text
+// @bsouthga
+// <- (this is a comment and will be ignored)
+
+// this is the url for the parent
+url: http://urbaninstitute.github.io/quick-quiz/
+
+// this is the title of the quiz
+# NDT Quiz
+
+// this is an example question.
+// the number signifies the question order,
+// meaning questions can be placed in random order
+// within the file
+
+
+  // these are answers, a correct answer
+  // is indicated by a "*"
+  
+
+  // this is a reponse text paragraph
+  // it will be displayed upon answering
+  // the question correctly
+ 
+
+1) A penetrant indication, suspected of resulting from a small crack, is found in a titanium compressor blade. Which of the following NDT methods would most reliably confirm that a crack is present?
+  - eddy current testing
+  - magnetic particle testing
+  - radiographic testing
+  * ultrasonic testing
+
+2) The tendency of a liquid penetrant to enter a discontinuity is primarily related to?
+   - The viscosity of the penetrant
+  * The capillary forces.
+   - The chemical inertness of the penetrant.
+    - The specific gravity of the penetrant.
+
+3) The factor that has the greatest effect on the speed at which a penetrant indication forms is?
+  - relative size of defect
+  - type of material tested
+  - type of penetrant used
+  * all of the above
+1) The penetrant indication for a cold shut on the surface of a casting will be:
+  * A dotted or smooth continuous line.
+  - A cluster of small indications.
+  - A rough deep indication.
+  - A large bulbous indication.
+
+2) An important difference between non water soluble penetrants and water washable penetrants is?
+  * water washable penetrants contain an emulsifier while non water soluble penetrants do not.
+  - the viscosity of the two penetrants is different.
+  - the colour of the two penetrants is different.
+  - non water soluble penetrants are more easily removed than are water washable penetrants.
+
+3) Water washable penetrants are the best type of penetrant to use when?
+  - Maximum sensitivity and reliability are required.
+  - Contamination of the parts by acid is suspected.
+  * Rough surfaces are being tested.
+  - Anodised parts a being tested.
+
+4) Electrostatic application of penetrant materials is preferred because?
+  - of the reduced risk of pollution
+  - there is no progressive contamination of solutions
+  - there is reduced dragout losses
+  * all of the above
+
+5) Some alloys are susceptible to corrosion or embrittlement due to the chemical action between the alloy and penetrant. This problem can be avoided after inspection by?
+  - application of inhibitor
+  - wrapping parts in plastic
+  * post cleaning and inhibitor application
+  - blowing down parts with compressed air
+
+6) Which of the following discontinuities might be found in a welded fabrication?
+  - Shrinkage.
+  * Lack of fusion.
+  - Seams.
+  - Laps.
+
+7) Which of the following is an advantage of solvent wipe methods over water washing?
+  - No special lighting is necessary during inspection.
+  - They provide a quicker penetration of small openings.
+  - Small indications are more easily seen.
+  * They can easily be carried out in the field/remote areas.
+
+8) Which of the following discontinuities could be classified as an inherent discontinuity often found in cast material?
+  - Fatigue crack.
+  - Stress-corrosion crack.
+  * Porosity.
+  - Lack of penetration.
+
+9) Of the methods listed below, the most effective means of precleaning a test item prior to a penetrant test is?
+  * Vapour degreasing.
+  - Detergent cleaning.
+  - Steam cleaning.
+  - Solvent wiping.
+
+10) When conducting a penetrant test, spherical indications on the surface of a part could be indicative of?
+  - Fatigue cracks.
+  * Porosity.
+  - Weld laps.
+  - Hot tears.
+
