@@ -30,73 +30,181 @@ url: http://urbaninstitute.github.io/quick-quiz/
   * ultrasonic testing
 
 2) The tendency of a liquid penetrant to enter a discontinuity is primarily related to?
-   - The viscosity of the penetrant
+  - The viscosity of the penetrant
   * The capillary forces.
-    - The chemical inertness of the penetrant.
-    - The specific gravity of the penetrant.
+  - The chemical inertness of the penetrant.
+  - The specific gravity of the penetrant.
 
-3) The factor that has the greatest effect on the speed at which a penetrant indication forms is?
-  - relative size of defect
-  - type of material tested
-  - type of penetrant used
-  * all of the above
-1) The penetrant indication for a cold shut on the surface of a casting will be:
-  * A dotted or smooth continuous line.
-  - A cluster of small indications.
-  - A rough deep indication.
-  - A large bulbous indication.
+3) Identify from Figure One below, which of the four materials is the near zone shortest?
 
-2) An important difference between non water soluble penetrants and water washable penetrants is?
-  * water washable penetrants contain an emulsifier while non water soluble penetrant do not
-  - the viscosity of the two penetrants is different.
-  - the colour of the two penetrants is different.
-  - non water soluble penetrants are more easily removed than are water washable penetrants.
+  - 1
+  - 2
+  * 3
+  - 4
 
-3) Water washable penetrants are the best type of penetrant to use when?
-  - Maximum sensitivity and reliability are required.
-  - Contamination of the parts by acid is suspected.
-  * Rough surfaces are being tested.
-  - Anodised parts a being tested.
+4) In antisotropic materials linear elastics waves may propagate along a given direction. These are not pure modes. The waves with large parallel components are called?
 
-4) Electrostatic application of penetrant materials is preferred because?
-  - of the reduced risk of pollution
-  - there is no progressive contamination of solutions
-  - there is reduced dragout losses
-  * all of the above
+- Lamb waves
+* Quailongitudinal waves
+- Quasishear waves
+- Anistropic
 
-5) Some alloys are susceptible to corrosion or embrittlement due to the chemical action between the alloy and penetrant. This problem can be avoided after inspection by?
-  - application of inhibitor
-  - wrapping parts in plastic
-  * post cleaning and inhibitor application
-  - blowing down parts with compressed air
+5) A non linear transverse wave propagating in a solid that is free of discontinuities?
 
-6) Which of the following discontinuities might be found in a welded fabrication?
-  - Shrinkage.
-  * Lack of fusion.
-  - Seams.
-  - Laps.
+- Distorts
+- Propagates without an accompanying longitudinal wave
+* Does not distort
+- Propagates without attenuation
 
-7) Which of the following is an advantage of solvent wipe methods over water washing?
-  - No special lighting is necessary during inspection.
-  - They provide a quicker penetration of small openings.
-  - Small indications are more easily seen.
-  * They can easily be carried out in the field/remote areas.
+6) Ultrasonic nondestructive test create stresses in the test component which are?
 
-8) Which of the following discontinuities could be classified as an inherent discontinuity often found in cast material?
-  - Fatigue crack.
-  - Stress-corrosion crack.
-  * Porosity.
-  - Lack of penetration.
+* Below the yield stress and do not cause permanent deformation
+- Above the yield stress but do not cause permanent deformation
+- High compared to mechanical testing
+- Permanently affecting the internal structure without affecting the surface
 
-9) Of the methods listed below, the most effective means of precleaning a test item prior to a penetrant test is?
-  * Vapour degreasing.
-  - Detergent cleaning.
-  - Steam cleaning.
-  - Solvent wiping.
+7) In contact testing of material with known and constant acoustic velocities the time taken for sound energy to reach a reflector is ... the distance from the contact surface to the reflector?
 
-10) When conducting a penetrant test, spherical indications on the surface of a part could be indicative of?
-  - Fatigue cracks.
-  * Porosity.
-  - Weld laps.
-  - Hot tears.
+- Exponentially proportional to
+- Inversely proportional to
+* Directly proportional to
+- Not proportional to
+
+8) Which of the following wave modes would be chosen for an application that required an ability of a wave to follow the contours of irregular shaped surfaces?
+
+- Longitudinal wave
+- Lamb wave
+- Shear wave
+* Rayleigh wave
+
+9) What angle of incidence would produce only a shear wave method in steel when transmitted from a probe with a perspex shoe  VI perspex=2.7 x 10 6mm / sec, VL steel=6.0 x 106mm / sec, VS steel=3.2 x 106mm / sec ?
+
+- 18.5
+- 26.7
+* 36.6
+- 57.5
+
+10)  'The time represented on the screen is indicative of a single traverse through the material' To which of the following techniques does this description refer?
+
+- Pulse echo
+- A scan
+* Through transmission
+- B scan
+
+11) In the far field of an ultrasonic beam the beam has a?
+
+* Spherical wave front
+- Plane wave front
+- Wave front with constant acoustic pressure
+- Both plane wave front and wave front with constant acoustic pressure
+
+12) The region of an ultrasonic beam characterised as a collection of symmetrical high and low pressure regions caused by interfering wave fronts is called the?
+- Near or Fraunhofer zone
+* Near or Fresnel zone
+- Far or Fraunhofer zone
+- Far or Fresnel zone
+
+13) An increase in the pulse repetition rate is likely to .... the brightness of the indication on the CRT screen?
+
+* Increase
+- Decrease
+- Have no effect on
+- Either increase or decrease depending on the actual pulse repetition rate
+
+14) The critical angle for the interface of two media with dissimilar acoustic wave velocities is the incident angle at which the refracted angle equals?
+
+- Zero degrees
+- 35 degrees
+* 90 degrees
+- 120 degrees
+
+15) The application of Snells Law to ultrasonic waves at an acoustic interface is dependent on the wave mode velocity in the second medium?
+
+- Being greater than the wave velocity in the incident medium
+- Being less than the wave velocity in the incident medium
+- Being equal to the wave velocity in the incident medium
+* Either greater or lesser to the wave velocity in the incident medium
+
+16) At a water to steel interface approximately 88% of the sound is reflected back into the water. If the sound was travelling through steel to a steel to water interface approximately .... of the sound would be transmitted across the interface?
+
+* 12%
+- 88%
+- 50%
+- To calculate would require the relative acoustic impedances
+
+17) Water will support?
+
+* Longitudinal waves
+- Shear waves
+- Rayleigh waves - surface waves
+- Both longitudinal and rayleigh waves
+
+18) Ultrasonic frequencies are above?
+
+- 200 Hz
+- 2000 Hz
+* 20000 Hz
+- 200000 Hz
+19) Sound energy can be formed into beams, similar to that of light, at frequencies above?
+
+- 10 KHz
+* 100 KHz
+- 1000 KHz
+- 10000 KHz
+
+20) Wavelength is?
+
+- Equal to the product of velocity and frequency
+- Inversely proportional to velocity and directly proportional to frequency
+* Directly proportional to velocity and inversely proportional to frequency
+- Both Equal to the product of velocity and frequency and Directly proportional to
+velocity and inversely proportional to frequency
+
+21) The velocity of lamb plate waves is dependent upon?
+
+- Sample thickness
+- Elasticity modules
+- Frequency
+* All the above
+
+22) Which of the following modes of ultrasonic wave may be used to volumetrically inspect material that is too thin to allow resolution of the first back wall reflection from the initial pulse?
+
+- Rayleigh
+- Compression
+* Lamb
+- Shear
+
+23) Rayleigh waves can be effectively sustained only when the medium on one side of the interface?
+
+- Is a liquid
+* Is a gas
+- Is a solid
+- Has a sound velocity value similar to the test material
+
+24) At an aluminium / water interface peak transmission of acoustic pressure for a returning transverse wave echo occur at beam angles between?
+- 0-90 degrees
+- 0-10 degrees
+* 35-51 degrees
+- All angles transmit the same acoustic pressure across an interface
+
+25) Two components with different acoustic impedances are couples by a material having an acoustic impedance equal to the mean of the component's acoustic impedances. The thickness of the coupling layer is a quarter wavelength. What percentage of sound energy is transmitted at zero degree incidence across the coupling layer into the second component: First component Z1 = 17, Second component Z2 = 45, Coupling layer Z c = 31?
+
+* 100%
+- 80%
+- 50%
+- 4%
+
+26) The degree to which sound energy is reflected at an interface is dependent upon the?
+
+- Wave length of the sound wave
+- The frequency of the sound wave
+* The velocity of the sound wave
+- The amplitude of the sound wave
+
+27) Sound propagates well through most liquids particularly those with?
+
+* Low viscosity
+- High viscosity
+- Elastic properties
+- Plastic properties    
 

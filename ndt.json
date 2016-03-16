@@ -28,130 +28,302 @@
     },
     {
       "answers": [
-        "water washable penetrants contain an emulsifier while non water soluble penetrant do not",
-        "the viscosity of the two penetrants is different.",
-        "the colour of the two penetrants is different.",
-        "non water soluble penetrants are more easily removed than are water washable penetrants."
-      ],
-      "correct": {
-        "index": 0
-      },
-      "number": 2,
-      "prompt": "An important difference between non water soluble penetrants and water washable penetrants is?"
-    },
-    {
-      "answers": [
-        "relative size of defect",
-        "type of material tested",
-        "type of penetrant used"
-      ],
-      "correct": {},
-      "number": 3,
-      "prompt": "The factor that has the greatest effect on the speed at which a penetrant indication forms is?"
-    },
-    {
-      "answers": [
-        "Maximum sensitivity and reliability are required.",
-        "Contamination of the parts by acid is suspected.",
-        "Rough surfaces are being tested.",
-        "Anodised parts a being tested."
+        "1",
+        "2",
+        "3",
+        "4"
       ],
       "correct": {
         "index": 2
       },
       "number": 3,
-      "prompt": "Water washable penetrants are the best type of penetrant to use when?"
+      "prompt": "Identify from Figure One below, which of the four materials is the near zone shortest?"
     },
     {
       "answers": [
-        "of the reduced risk of pollution",
-        "there is no progressive contamination of solutions",
-        "there is reduced dragout losses",
-        "all of the above"
+        "Lamb waves",
+        "Quailongitudinal waves",
+        "Quasishear waves",
+        "Anistropic"
       ],
       "correct": {
-        "index": 3
+        "index": 1
       },
       "number": 4,
-      "prompt": "Electrostatic application of penetrant materials is preferred because?"
+      "prompt": "In antisotropic materials linear elastics waves may propagate along a given direction. These are not pure modes. The waves with large parallel components are called?"
     },
     {
       "answers": [
-        "application of inhibitor",
-        "wrapping parts in plastic",
-        "post cleaning and inhibitor application",
-        "blowing down parts with compressed air"
+        "Distorts",
+        "Propagates without an accompanying longitudinal wave",
+        "Does not distort",
+        "Propagates without attenuation"
       ],
       "correct": {
         "index": 2
       },
       "number": 5,
-      "prompt": "Some alloys are susceptible to corrosion or embrittlement due to the chemical action between the alloy and penetrant. This problem can be avoided after inspection by?"
+      "prompt": "A non linear transverse wave propagating in a solid that is free of discontinuities?"
     },
     {
       "answers": [
-        "Shrinkage.",
-        "Lack of fusion.",
-        "Seams.",
-        "Laps."
-      ],
-      "correct": {
-        "index": 1
-      },
-      "number": 6,
-      "prompt": "Which of the following discontinuities might be found in a welded fabrication?"
-    },
-    {
-      "answers": [
-        "No special lighting is necessary during inspection.",
-        "They provide a quicker penetration of small openings.",
-        "Small indications are more easily seen.",
-        "They can easily be carried out in the field/remote areas."
-      ],
-      "correct": {
-        "index": 3
-      },
-      "number": 7,
-      "prompt": "Which of the following is an advantage of solvent wipe methods over water washing?"
-    },
-    {
-      "answers": [
-        "Fatigue crack.",
-        "Stress-corrosion crack.",
-        "Porosity.",
-        "Lack of penetration."
-      ],
-      "correct": {
-        "index": 2
-      },
-      "number": 8,
-      "prompt": "Which of the following discontinuities could be classified as an inherent discontinuity often found in cast material?"
-    },
-    {
-      "answers": [
-        "Vapour degreasing.",
-        "Detergent cleaning.",
-        "Steam cleaning.",
-        "Solvent wiping."
+        "Below the yield stress and do not cause permanent deformation",
+        "Above the yield stress but do not cause permanent deformation",
+        "High compared to mechanical testing",
+        "Permanently affecting the internal structure without affecting the surface"
       ],
       "correct": {
         "index": 0
       },
-      "number": 9,
-      "prompt": "Of the methods listed below, the most effective means of precleaning a test item prior to a penetrant test is?"
+      "number": 6,
+      "prompt": "Ultrasonic nondestructive test create stresses in the test component which are?"
     },
     {
       "answers": [
-        "Fatigue cracks.",
-        "Porosity.",
-        "Weld laps.",
-        "Hot tears."
+        "Exponentially proportional to",
+        "Inversely proportional to",
+        "Directly proportional to",
+        "Not proportional to"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 7,
+      "prompt": "In contact testing of material with known and constant acoustic velocities the time taken for sound energy to reach a reflector is ... the distance from the contact surface to the reflector?"
+    },
+    {
+      "answers": [
+        "Longitudinal wave",
+        "Lamb wave",
+        "Shear wave",
+        "Rayleigh wave"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 8,
+      "prompt": "Which of the following wave modes would be chosen for an application that required an ability of a wave to follow the contours of irregular shaped surfaces?"
+    },
+    {
+      "answers": [
+        "18.5",
+        "26.7",
+        "36.6",
+        "57.5"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 9,
+      "prompt": "What angle of incidence would produce only a shear wave method in steel when transmitted from a probe with a perspex shoe  VI perspex=2.7 x 10 6mm / sec, VL steel=6.0 x 106mm / sec, VS steel=3.2 x 106mm / sec ?"
+    },
+    {
+      "answers": [
+        "Pulse echo",
+        "A scan",
+        "Through transmission",
+        "B scan"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 10,
+      "prompt": "'The time represented on the screen is indicative of a single traverse through the material' To which of the following techniques does this description refer?"
+    },
+    {
+      "answers": [
+        "Spherical wave front",
+        "Plane wave front",
+        "Wave front with constant acoustic pressure",
+        "Both plane wave front and wave front with constant acoustic pressure"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 11,
+      "prompt": "In the far field of an ultrasonic beam the beam has a?"
+    },
+    {
+      "answers": [
+        "Near or Fraunhofer zone",
+        "Near or Fresnel zone",
+        "Far or Fraunhofer zone",
+        "Far or Fresnel zone"
       ],
       "correct": {
         "index": 1
       },
-      "number": 10,
-      "prompt": "When conducting a penetrant test, spherical indications on the surface of a part could be indicative of?"
+      "number": 12,
+      "prompt": "The region of an ultrasonic beam characterised as a collection of symmetrical high and low pressure regions caused by interfering wave fronts is called the?"
+    },
+    {
+      "answers": [
+        "Increase",
+        "Decrease",
+        "Have no effect on",
+        "Either increase or decrease depending on the actual pulse repetition rate"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 13,
+      "prompt": "An increase in the pulse repetition rate is likely to .... the brightness of the indication on the CRT screen?"
+    },
+    {
+      "answers": [
+        "Zero degrees",
+        "35 degrees",
+        "90 degrees",
+        "120 degrees"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 14,
+      "prompt": "The critical angle for the interface of two media with dissimilar acoustic wave velocities is the incident angle at which the refracted angle equals?"
+    },
+    {
+      "answers": [
+        "Being greater than the wave velocity in the incident medium",
+        "Being less than the wave velocity in the incident medium",
+        "Being equal to the wave velocity in the incident medium",
+        "Either greater or lesser to the wave velocity in the incident medium"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 15,
+      "prompt": "The application of Snells Law to ultrasonic waves at an acoustic interface is dependent on the wave mode velocity in the second medium?"
+    },
+    {
+      "answers": [
+        "12%",
+        "88%",
+        "50%",
+        "To calculate would require the relative acoustic impedances"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 16,
+      "prompt": "At a water to steel interface approximately 88% of the sound is reflected back into the water. If the sound was travelling through steel to a steel to water interface approximately .... of the sound would be transmitted across the interface?"
+    },
+    {
+      "answers": [
+        "Longitudinal waves",
+        "Shear waves",
+        "Rayleigh waves - surface waves",
+        "Both longitudinal and rayleigh waves"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 17,
+      "prompt": "Water will support?"
+    },
+    {
+      "answers": [
+        "10 KHz",
+        "100 KHz",
+        "1000 KHz",
+        "10000 KHz"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 19,
+      "prompt": "Sound energy can be formed into beams, similar to that of light, at frequencies above?"
+    },
+    {
+      "answers": [
+        "Sample thickness",
+        "Elasticity modules",
+        "Frequency",
+        "All the above"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 21,
+      "prompt": "The velocity of lamb plate waves is dependent upon?"
+    },
+    {
+      "answers": [
+        "Rayleigh",
+        "Compression",
+        "Lamb",
+        "Shear"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 22,
+      "prompt": "Which of the following modes of ultrasonic wave may be used to volumetrically inspect material that is too thin to allow resolution of the first back wall reflection from the initial pulse?"
+    },
+    {
+      "answers": [
+        "Is a liquid",
+        "Is a gas",
+        "Is a solid",
+        "Has a sound velocity value similar to the test material"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 23,
+      "prompt": "Rayleigh waves can be effectively sustained only when the medium on one side of the interface?"
+    },
+    {
+      "answers": [
+        "0-90 degrees",
+        "0-10 degrees",
+        "35-51 degrees",
+        "All angles transmit the same acoustic pressure across an interface"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 24,
+      "prompt": "At an aluminium / water interface peak transmission of acoustic pressure for a returning transverse wave echo occur at beam angles between?"
+    },
+    {
+      "answers": [
+        "100%",
+        "80%",
+        "50%",
+        "4%"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 25,
+      "prompt": "Two components with different acoustic impedances are couples by a material having an acoustic impedance equal to the mean of the component's acoustic impedances. The thickness of the coupling layer is a quarter wavelength. What percentage of sound energy is transmitted at zero degree incidence across the coupling layer into the second component: First component Z1 = 17, Second component Z2 = 45, Coupling layer Z c = 31?"
+    },
+    {
+      "answers": [
+        "Wave length of the sound wave",
+        "The frequency of the sound wave",
+        "The velocity of the sound wave",
+        "The amplitude of the sound wave"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 26,
+      "prompt": "The degree to which sound energy is reflected at an interface is dependent upon the?"
+    },
+    {
+      "answers": [
+        "Low viscosity",
+        "High viscosity",
+        "Elastic properties",
+        "Plastic properties"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 27,
+      "prompt": "Sound propagates well through most liquids particularly those with?"
     }
   ],
   "title": "NDT Quiz",

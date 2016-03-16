@@ -157,8 +157,8 @@ function render(quiz_opts) {
       // answer dialogue
       if (correct) {
         opts = $.extend(opts, {
-          title: "Nice!",
-          text: "Correct! Great Job!" + (
+          title: "",
+          text: "Correct!" + (
             question.correct.text ?
             ("<div class=\"correct-text\">" +
               question.correct.text +
@@ -168,9 +168,9 @@ function render(quiz_opts) {
         });
       } else {
         opts = $.extend(opts, {
-          title: "Oh No!",
+          title: "",
           text: (
-            "Nope, not quite right!<br/><br/>" +
+            "<br/><br/>" +
             "The correct answer was \"" +
             question.answers[question.correct.index] + "\"."
           ),
