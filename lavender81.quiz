@@ -6,7 +6,7 @@
 url: http://urbaninstitute.github.io/quick-quiz/
 
 // this is the title of the quiz
-# NDT Quiz
+# Lavender 8.1 Quiz
 
 // this is an example question.
 // the number signifies the question order,
@@ -23,24 +23,7 @@ url: http://urbaninstitute.github.io/quick-quiz/
   // the question correctly
  
 
-1) A penetrant indication, suspected of resulting from a small crack, is found in a titanium compressor blade. Which of the following NDT methods would most reliably confirm that a crack is present?
-  - eddy current testing
-  - magnetic particle testing
-  - radiographic testing
-  * ultrasonic testing
 
-2) The tendency of a liquid penetrant to enter a discontinuity is primarily related to?
-  - The viscosity of the penetrant
-  * The capillary forces.
-  - The chemical inertness of the penetrant.
-  - The specific gravity of the penetrant.
-
-3) Identify from Figure One below, which of the four materials is the near zone shortest?
-
-  - 1
-  - 2
-  * 3
-  - 4
 
 4) In antisotropic materials linear elastics waves may propagate along a given direction. These are not pure modes. The waves with large parallel components are called?
 

@@ -1,0 +1,182 @@
+// example quiz text
+// @bsouthga
+// <- (this is a comment and will be ignored)
+
+// this is the url for the parent
+url: http://urbaninstitute.github.io/quick-quiz/
+
+// this is the title of the quiz
+# Lavender 8.4 Quiz
+
+// this is an example question.
+// the number signifies the question order,
+// meaning questions can be placed in random order
+// within the file
+
+
+  // these are answers, a correct answer
+  // is indicated by a "*"
+  
+
+  // this is a reponse text paragraph
+  // it will be displayed upon answering
+  // the question correctly
+ 
+
+
+
+
+
+1) The temporal resolution of a transducer is directly proportional to?
+
+ - Frequency
+ - Its crystal diameter
+ - Its crystal thickness
+ * Its bandwidth
+
+2) Cylindrical acoustic lenses make it possible to focus the ultrasonic beam?
+
+ - At a point
+ * Along a line
+ - To a disc the diameter of the cylinder
+ - Without loss of axial resolution
+
+3) Short duration pulses from well damped transducers should significantly improve?
+
+ * Near surface resolution
+ - Far field penetration
+ - Near zone length
+ - All of the above
+
+4) Lateral resolution is prinicipally a function of?
+
+ - Wavelength
+ - Probe diamater
+ - Material velocity
+ * Beam width
+
+5) Higher frequency probes producing increased sensitivity levels are able to be used in?
+
+ - Manual contact testing
+ * Immersion testing
+ - Automated testing
+ - C scan testing
+
+6) Which of the following is a principal advantage of focused transducers?
+
+ - The energy at the focal spot decreases
+ * The sensitivity at the focal spot increased
+ - The axial resolution is increased
+ - Both the sensibility at the focal spot increases and the axial resolution increases
+
+7) With reference to Figure One below, which of the following pulses first exhibits phase reversal?
+ - 0.5 microsecs
+ * 1.6 microsecs
+ - 2.6 microsecs
+ - 3.7 microsecs
+
+8) The bandwidth of a transducer is measured at points 70% of the resonance frequency intensity. These points represent a drop in intensity of?
+ 
+ - 2 dBs
+ * 3 dBs
+ - 4 dBs
+ - 5 dBs
+
+9)Which of the following couplants would be considered to be most suitable for use on hot aluminium surfaces?
+
+ - Water
+ - Wall paper paste
+ * Grease
+ - Glycerine
+
+10) Which type of probe can be described as containing an acoustical barrier seperating the transmitter element from the receiver?
+
+ * Twin crystal
+ - Damped wide bandwidth
+ - Damped narrow bandwidth
+ - Damped low resolution
+
+11) Paintbush transducers are designed to?
+
+ - Pinpoint the location and size of a flaw
+ - Allow smooth scanning with less couplant than a conventional transducer
+ * Be survey devices
+ - Have a narrow parallel beam pattern for uniform scanning
+
+12) 500PPS & 101.6SS, 750PPS & 152.4SS, 1000PPS & 203.2SS
+ Given the following information regarding the relation between Pulse Repetition Rate and Scanning Speed what scanning speed shall be used for a PSR of 900PPS... 500PPS & 101.6SS, 750PPS & 152.4SS, 1000PPS & 203.2SS?
+
+ - 160.4
+ - 173.6
+ * 182.9
+ - 198.4
+
+13) Which of the following is a monohydrate piezoelectric crystal that is highly sensitive to minute quantities of water?
+
+ - Quartz
+ * Lithium sulphate
+ - Barium titanate
+ - Lead zirconate
+
+14) When evaluating the Damping Factor of an ultrasonic transducer it shall be based on the number of cycles in the pulse envelope greater than?
+
+ - 70% of the initial pulse amplitude
+ * 50% of the initial pulse amplitude
+ - 35% of the initial pulse amplitude
+ - 20% of the initial pulse amplitude
+
+15) Bond imperfections between the transducer and the damping element cause?
+
+ - Increased beam symmetry
+ - Decreased Damping Factor
+ * Increased transducer operating frequency
+ - All of the above
+
+16) One of the factors that are primarily responsible for the loss in beam intensity is transmission losses. Transmission losses include?
+
+ - Diffraction
+ * Scattering
+ - Beam spreading
+ - Frequency shift
+
+17) Near field and far field effects in the ultrasonic beam occur due to the transducer crystal not vibrating under the influence of an impressed electrical voltage. Near and far fields can occur due to?
+
+ - A pulsed instead of constant output signal
+ * A reflection of the ultrasonic beam at interfaces
+ - Disturbances in the water couplant used in immersion testing
+ - Gradual changes in acoustic velocities within a material
+
+18) For a non-focused zero degree 10mm diameter probe calculate the 6 dB beam diameter at the near zone length?
+
+ * 2.5mm
+ - 10mm
+ - 5mm
+ - 6.5mm
+
+19) Which of the following piezoelectric materials tend to depolarise with age?
+
+ - Lithium sulphate
+ - Lead zirconate titanate
+ - Lead metaniobate
+ * Barium titanate
+
+20) A nickel rod placed in a coil carrying a current experiences a change in length as a function of the current through coil. This fact explains the basic principle of?
+
+ - Thickness measurement
+ * Magnetostriction transducers
+ - Lamb wave testing
+ - Resonance testing
+
+21) Material noise consists of low amplitude, random signals from numerous small reflectors irregularly distributed throughout the test piece. This noise may be reduced by the use of?
+
+ * Focused probes
+ - Parallel beam probes
+ - High frequency probes
+ - Twin crystal probes
+
+22) The predominant central frequency of an ultrasonic beam is closely related to?
+
+ - The diameter of the transducer
+ * The transducers natural thickness resonance
+ - The velocity of sund in the test material
+ - The grain size of the test material

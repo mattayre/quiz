@@ -1,0 +1,71 @@
+// example quiz text
+// @bsouthga
+// <- (this is a comment and will be ignored)
+
+// this is the url for the parent
+url: http://urbaninstitute.github.io/quick-quiz/
+
+// this is the title of the quiz
+# Bindt Quiz
+
+// this is an example question.
+// the number signifies the question order,
+// meaning questions can be placed in random order
+// within the file
+
+
+  // these are answers, a correct answer
+  // is indicated by a "*"
+  
+
+  // this is a reponse text paragraph
+  // it will be displayed upon answering
+  // the question correctly
+ 
+
+
+
+
+
+
+1) The angle at which the shear component of an incident beam is refracted at 90 degrees to the normal is called?
+
+ - the normal angle of incidence  
+ - the first critical angle  
+ - the angle of maximum reflection  
+ * the second critical angle
+   
+2) As frequency increases in ultrasonic testing the angle of beam divergence of a given diameter crystal?
+
+ * decreases  
+ - remains constant  
+ - increases  
+ - varies uniformly through each wavelength
+   
+3) The fundamental frequency of a piezo-electric crystal used in ultrasonic probes is a function of?
+
+ - its thickness  
+ - the velocity of sound in the crystal material  
+ * both A and B above  
+ - its diameter
+   
+4)	Shear waves are generally more sensitive to fine discontinuities for a given frequency than longitudinal waves because? 
+
+ * the wavelength is shorter  
+ - shear waves are not as easily dispersed in the material  
+ - the direction of particle vibration of shear is more sensitive  
+ - the wavelength of shear waves is longer  
+
+6) DGS diagrams compare flaw signal amplitudes to? 
+
+ - reference blocks  
+ - flat bottomed holes  
+ * a theoretical maximum  
+ - DAC
+   
+9)	The vertical axis of the DGS diagram represents? 
+
+ - probe diameter  
+ - flat-bottomed hole size  
+ * gain  
+ - reflector depth  

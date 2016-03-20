@@ -1,0 +1,344 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Material velocity",
+        "Material attenuation",
+        "Pulse length",
+        "Surface geometry"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 1,
+      "prompt": "Which of the following parameters is controlled by the operator using ultrasonic equipment?"
+    },
+    {
+      "answers": [
+        "Interact and cancel out",
+        "Decay completely between pulses",
+        "Match the natural frequency of the transducer",
+        "Both decay and completely between pulses and match the natural frequency of the"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "transducer"
+      },
+      "number": 2,
+      "prompt": "The pulse repetition rate on a pulse echo system is adjusted so that reverberations within the test object?"
+    },
+    {
+      "answers": [
+        "8mm",
+        "10mm",
+        "16mm",
+        "20mm"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 3,
+      "prompt": "What should the minimum water path be for an immersion set up testing a 40mm thick steel plate with a zero degree beam?"
+    },
+    {
+      "answers": [
+        "30 degree",
+        "38 degree",
+        "50 degree",
+        "60 degree"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 4,
+      "prompt": "A butt weld prep in a 30mm thick plate is a single vee with an included angle of 60 degrees. What probe angle shall be used for the beam to be normal to the weld fusion face in the second half skip?"
+    },
+    {
+      "answers": [
+        "45 degrees",
+        "54.3 degrees",
+        "67.5 degrees",
+        "70 degrees"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 5,
+      "prompt": "A butt weld prep in 10mm thick plate is a single vee with an included angle of 45 degrees, what probe angle shall be used for the ebam to be normal to the weld fusion face in the second half skip?"
+    },
+    {
+      "answers": [
+        "Probe emits a sound wave radially through the water stream",
+        "Water stream velocity is constant",
+        "Water stream is free of turbulence causing air bubbles",
+        "All of the above are essential"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 6,
+      "prompt": "In the squirter or bubbler system using a column of flowing water, to ensure satisfactory coupling it is essential that the?"
+    },
+    {
+      "answers": [
+        "Manual contact testing",
+        "Immersion testing",
+        "Automated testing",
+        "C scan testing"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 7,
+      "prompt": "Test items of many different configurations can be examined with little difficulty applies too?"
+    },
+    {
+      "answers": [
+        "Twin crystal probe system",
+        "Immersion probe system",
+        "Tandem probe system",
+        "Angle probe system"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 8,
+      "prompt": "Which of the following arrangements would be most suitabel for the detection of a vertical planar defect at mid depth in a double vee plate butt weld?"
+    },
+    {
+      "answers": [
+        "A straight beam technique",
+        "An angle beam technique",
+        "An A scan technique",
+        "A pulse echo technique"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 9,
+      "prompt": "Laminations in plate are detected and sized using?"
+    },
+    {
+      "answers": [
+        "Reject components that are acceptable",
+        "Alter the linearity of the time base",
+        "Increase sensitivity to low level signals",
+        "Alter the linearity of the amplifier"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 10,
+      "prompt": "An ultrasonic operator should be aware that the use of reject circuitary may?"
+    },
+    {
+      "answers": [
+        "Normal incidence",
+        "Zero degree incidence",
+        "90 degree incidence",
+        "Either normal incidence or 90 degree incidence"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 11,
+      "prompt": "For maximum detection reliability the sound wave should strike a reflector at?"
+    },
+    {
+      "answers": [
+        "Water",
+        "Cellulose",
+        "Oil",
+        "Sulphur"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 12,
+      "prompt": "Couplants used for ultrasonic inspection of stainless steels and high nickel alloys susceptible to stress corrosion cracking should be free from traces of?"
+    },
+    {
+      "answers": [
+        "Broad band instrument",
+        "Narrow band instrument",
+        "Low pass filters",
+        "Both narrow band instrument and low pass filters"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 13,
+      "prompt": "Ultrasonic signal to noise ratio may be improved by use of?"
+    },
+    {
+      "answers": [
+        "Wide beam spread",
+        "Narrow beam spread",
+        "Beam spread will not affect distance travelled",
+        "Polarised beam"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 14,
+      "prompt": "In fine grained, homogenous and isotropic materials which of the following beams will travel the greater distance?"
+    },
+    {
+      "answers": [
+        "Increased sensitivity and decreased resolution",
+        "Decreased sensitivity and increased resolution",
+        "Increased sensitivity and increased resolution",
+        "Decreased sensitivity and decreased resolution"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 15,
+      "prompt": "Using lower frequency probes to decrease attenuation losses will usually result in?"
+    },
+    {
+      "answers": [
+        "Grain boundary echo amplitude",
+        "Attenuation",
+        "Velocity\u2028",
+        "Attenuation and velocity"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 17,
+      "prompt": "When using ultrasound to determine microstructural differences which of the following factors is likely to be measured?"
+    },
+    {
+      "answers": [
+        "The ultrasonic beam angle can be chosen to be parallel to major defect directions",
+        "The transducer does not have to be placed on the weld surface",
+        "The wavelength of an angle beam is shorter and will give a higher sensitivity",
+        "Zero degree probes are only used for inspecting plate material"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 18,
+      "prompt": "One reason that angle beam inspection of weld is used is that?"
+    },
+    {
+      "answers": [
+        "Has improved in that area",
+        "Has deteriorated in that area",
+        "The steel backing is thinner in that area",
+        "The bearing metal is thinner in that area"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 19,
+      "prompt": "During ultrasonic inspection of bonding between bearing metal and a steel backing three echoes are seen on the screen: The initial pulse, the interface echo and the back wall echo. The interface echo increases at one point during scanning. The indicates that the bonding?"
+    },
+    {
+      "answers": [
+        "Surface waves",
+        "Longitudinal waves",
+        "Shear waves",
+        "All the above modes may be used"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 20,
+      "prompt": "Angle beam testing may be carried out using which of the following modes?"
+    },
+    {
+      "answers": [
+        "Skip distance",
+        "Resonance length",
+        "Wave length",
+        "Cycle length"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 21,
+      "prompt": "The linear distance between two successive nodes on the same surface when using angle beam testing is called the?"
+    },
+    {
+      "answers": [
+        "Scanning from the edge at right angles to the direction of rolling",
+        "Scanning with a low frequency probe from the top surface of the stack",
+        "Removing each plate from the stack and scanning a grid system from the top surface",
+        "Scanning with a probe array from the top surface of the stack"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 23,
+      "prompt": "30mm thick steel plates 1.5m wide are stacked 20 high. Preliminary screening for laminations could be carried out by?"
+    },
+    {
+      "answers": [
+        "Immersion",
+        "Pulse echo",
+        "Through transmission",
+        "Spectral analysis"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 24,
+      "prompt": "Which of the following ultrasonic methods involves only the measurement of signal attenuation?"
+    },
+    {
+      "answers": [
+        "Through transmission",
+        "Pulse echo",
+        "Immersion",
+        "Crack tip diffraction"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 25,
+      "prompt": "Which of the following techniques requires only one transducer type regardless of the incident angle?"
+    },
+    {
+      "answers": [
+        "Longer transit time",
+        "Longer beam path",
+        "Shorter transit time",
+        "Shorter beam path"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 26,
+      "prompt": "In straight beam immersion inspection the water path is generally adjusted to require a ... than the depth of scan?"
+    },
+    {
+      "answers": [
+        "Narrow and converging",
+        "Narrow and parallel",
+        "Narrow and diverging",
+        "Wide and parallel"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 27,
+      "prompt": "Acoustic lenses are used for contour correction such that in the straight beam inspection of tubing where the transducer is inside the tube the preferred beam is?"
+    },
+    {
+      "answers": [
+        "Show isotropic elastic behaviour",
+        "Show better ultrasound propagation in certain preferred directions",
+        "Show both isotropic elastic behaviour and show better ultrasound propagation in certain preferred directions"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 28,
+      "prompt": "Materials exhibiting a columnar grain structure are more likely to?"
+    }
+  ],
+  "title": "Lavender 8.3 Quiz",
+  "url": "http://urbaninstitute.github.io/quick-quiz/"
+}

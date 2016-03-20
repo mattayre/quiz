@@ -1,0 +1,251 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Check beam angle",
+        "Calibrate the time base",
+        "Measure material thickness",
+        "Measure the probe dead zone"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 1,
+      "prompt": "Block E in Figure One below, is being used to?"
+    },
+    {
+      "answers": [
+        "Measure beam angle",
+        "Position the beam exit point",
+        "Set sensitivity",
+        "Calibrate the time base for an angle probe"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 2,
+      "prompt": "Block B in Figure One below, is being used to?"
+    },
+    {
+      "answers": [
+        "Check probe resolution",
+        "Calibrate the time base",
+        "Measure the probe dead zone",
+        "Construct a distance amplitude correction curve"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 3,
+      "prompt": "Block F in Figure One below, is being used to?"
+    },
+    {
+      "answers": [
+        "Position the beam exit point",
+        "Calibrate the time base for an angle probe",
+        "Check probe resolution for an angle probe",
+        "Set sensitivity"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 4,
+      "prompt": "Block D in Figure One below, is being used to?"
+    },
+    {
+      "answers": [
+        "Measure the probe dead zone",
+        "Measure beam angle for a zero degree probe",
+        "Set sensitivity",
+        "Calibrate the time base"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 5,
+      "prompt": "Block G in Figure One below, is being used to?"
+    },
+    {
+      "answers": [
+        "Set sensitivity",
+        "Position the beam exit point",
+        "Measure beam angle",
+        "Check probe resolution"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 6,
+      "prompt": "Block A in Figure One below, is being use to?"
+    },
+    {
+      "answers": [
+        "Measure the probe dead zone",
+        "Set sensitivity",
+        "Calibrate the time base",
+        "Check probe near surface resolution"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 7,
+      "prompt": "Block C in Figure One below, is being used to?"
+    },
+    {
+      "answers": [
+        "Immersion testing",
+        "Contact testing",
+        "Normal beam testing",
+        "Angle beam testing"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 8,
+      "prompt": "Reference reflectors giving an omnidirectional response are used most often in?"
+    },
+    {
+      "answers": [
+        "Smaller than the calibration reflector",
+        "Larger than the calibration reflector",
+        "At least as large as the calibration reflector",
+        "The same shape as the calibration refelctor"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 9,
+      "prompt": "If a flaw echo amplitude is equal of the calibration reflector it is assumed that the flaw is?"
+    },
+    {
+      "answers": [
+        "Lower the probe frequency",
+        "Improve penetration",
+        "Improve resolution",
+        "Both lower the probe frequency and improve frequency"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 10,
+      "prompt": "An increase in pulse length less transducer damping will?"
+    },
+    {
+      "answers": [
+        "2:1",
+        "3.5:1",
+        "5:1",
+        "8:1"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 11,
+      "prompt": "A change in amplitude of 14dBs is equivalent to a ratio of?"
+    },
+    {
+      "answers": [
+        "Increase side lobe energy, reducing the effects of rough surfaces",
+        "Decreased side lobe energy, increasing the effects of rough surfaces",
+        "Increase side lobe energy, increasing the effects of rough surfaces",
+        "Decrease side lobe energy, decreasing the effects of rough surfaces"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 12,
+      "prompt": "The use of a focusing lens on a transducer will?"
+    },
+    {
+      "answers": [
+        "8.0mm",
+        "4.8mm",
+        "3.2mm"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 13,
+      "prompt": "What is the diameter of the flat bottomed hole in Number 8 ASTM area amplitude block?"
+    },
+    {
+      "answers": [
+        "25mm",
+        "50mm",
+        "75mm",
+        "100mm"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 15,
+      "prompt": "The plastic insert in the 50mm diameter hole in the IIW standard calibration block A2 - V1 calibration block is specified to have the absorption characteristics of ... of steel?"
+    },
+    {
+      "answers": [
+        "20 dB",
+        "12 dB",
+        "6 dB",
+        "2 dB"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 16,
+      "prompt": "To determine the scan index for an immersion system it is necessary to use the effective beam diameter at each metal distance. The effective beam diameter is considered to be at a point which is ... dBs less than the intensity at the beam axis?"
+    },
+    {
+      "answers": [
+        "Approximately three wavelengths",
+        "Dependent on energy which distributes in a linear way with depth",
+        "Frequency dependent",
+        "All of the above"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 17,
+      "prompt": "The depth of penetration of Rayleigh waves is?"
+    },
+    {
+      "answers": [
+        "A reference block",
+        "A calibration block",
+        "A sizing block",
+        "A test block"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 18,
+      "prompt": "A block used to establish reproducible test conditions is referred to as?"
+    },
+    {
+      "answers": [
+        "Larger than the 3mm diameter FBH",
+        "The same size as the 3mm diameter FBH",
+        "No smaller than the 3mm diameter FBH",
+        "smaller than the 3mm diameter FBH"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 19,
+      "prompt": "If the amplitude of an indication from a flaw in a component is equal to that from a 3mm diameter flat bottomed hole at the same depth. Is the flaw?"
+    },
+    {
+      "answers": [
+        "Spherical wave front",
+        "Plane wave front",
+        "Either of them"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 20,
+      "prompt": "When an ultrasonic wave encounters a point reflector the reflected wave is re-radiated as a?"
+    }
+  ],
+  "title": "Lavender 8.2 Quiz",
+  "url": "http://urbaninstitute.github.io/quick-quiz/"
+}

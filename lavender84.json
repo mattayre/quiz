@@ -1,0 +1,278 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Frequency",
+        "Its crystal diameter",
+        "Its crystal thickness",
+        "Its bandwidth"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 1,
+      "prompt": "The temporal resolution of a transducer is directly proportional to?"
+    },
+    {
+      "answers": [
+        "At a point",
+        "Along a line",
+        "To a disc the diameter of the cylinder",
+        "Without loss of axial resolution"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 2,
+      "prompt": "Cylindrical acoustic lenses make it possible to focus the ultrasonic beam?"
+    },
+    {
+      "answers": [
+        "Near surface resolution",
+        "Far field penetration",
+        "Near zone length",
+        "All of the above"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 3,
+      "prompt": "Short duration pulses from well damped transducers should significantly improve?"
+    },
+    {
+      "answers": [
+        "Wavelength",
+        "Probe diamater",
+        "Material velocity",
+        "Beam width"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 4,
+      "prompt": "Lateral resolution is prinicipally a function of?"
+    },
+    {
+      "answers": [
+        "Manual contact testing",
+        "Immersion testing",
+        "Automated testing",
+        "C scan testing"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 5,
+      "prompt": "Higher frequency probes producing increased sensitivity levels are able to be used in?"
+    },
+    {
+      "answers": [
+        "The energy at the focal spot decreases",
+        "The sensitivity at the focal spot increased",
+        "The axial resolution is increased",
+        "Both the sensibility at the focal spot increases and the axial resolution increases"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 6,
+      "prompt": "Which of the following is a principal advantage of focused transducers?"
+    },
+    {
+      "answers": [
+        "0.5 microsecs",
+        "1.6 microsecs",
+        "2.6 microsecs",
+        "3.7 microsecs"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 7,
+      "prompt": "With reference to Figure One below, which of the following pulses first exhibits phase reversal?"
+    },
+    {
+      "answers": [
+        "2 dBs",
+        "3 dBs",
+        "4 dBs",
+        "5 dBs"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 8,
+      "prompt": "The bandwidth of a transducer is measured at points 70% of the resonance frequency intensity. These points represent a drop in intensity of?"
+    },
+    {
+      "answers": [
+        "Water",
+        "Wall paper paste",
+        "Grease",
+        "Glycerine"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 9,
+      "prompt": "Which of the following couplants would be considered to be most suitable for use on hot aluminium surfaces?"
+    },
+    {
+      "answers": [
+        "Twin crystal",
+        "Damped wide bandwidth",
+        "Damped narrow bandwidth",
+        "Damped low resolution"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 10,
+      "prompt": "Which type of probe can be described as containing an acoustical barrier seperating the transmitter element from the receiver?"
+    },
+    {
+      "answers": [
+        "Pinpoint the location and size of a flaw",
+        "Allow smooth scanning with less couplant than a conventional transducer",
+        "Be survey devices",
+        "Have a narrow parallel beam pattern for uniform scanning"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 11,
+      "prompt": "Paintbush transducers are designed to?"
+    },
+    {
+      "answers": [
+        "Quartz",
+        "Lithium sulphate",
+        "Barium titanate",
+        "Lead zirconate"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 13,
+      "prompt": "Which of the following is a monohydrate piezoelectric crystal that is highly sensitive to minute quantities of water?"
+    },
+    {
+      "answers": [
+        "70% of the initial pulse amplitude",
+        "50% of the initial pulse amplitude",
+        "35% of the initial pulse amplitude",
+        "20% of the initial pulse amplitude"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 14,
+      "prompt": "When evaluating the Damping Factor of an ultrasonic transducer it shall be based on the number of cycles in the pulse envelope greater than?"
+    },
+    {
+      "answers": [
+        "Increased beam symmetry",
+        "Decreased Damping Factor",
+        "Increased transducer operating frequency",
+        "All of the above"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 15,
+      "prompt": "Bond imperfections between the transducer and the damping element cause?"
+    },
+    {
+      "answers": [
+        "Diffraction",
+        "Scattering",
+        "Beam spreading",
+        "Frequency shift"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 16,
+      "prompt": "One of the factors that are primarily responsible for the loss in beam intensity is transmission losses. Transmission losses include?"
+    },
+    {
+      "answers": [
+        "A pulsed instead of constant output signal",
+        "A reflection of the ultrasonic beam at interfaces",
+        "Disturbances in the water couplant used in immersion testing",
+        "Gradual changes in acoustic velocities within a material"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 17,
+      "prompt": "Near field and far field effects in the ultrasonic beam occur due to the transducer crystal not vibrating under the influence of an impressed electrical voltage. Near and far fields can occur due to?"
+    },
+    {
+      "answers": [
+        "2.5mm",
+        "10mm",
+        "5mm",
+        "6.5mm"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 18,
+      "prompt": "For a non-focused zero degree 10mm diameter probe calculate the 6 dB beam diameter at the near zone length?"
+    },
+    {
+      "answers": [
+        "Lithium sulphate",
+        "Lead zirconate titanate",
+        "Lead metaniobate",
+        "Barium titanate"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 19,
+      "prompt": "Which of the following piezoelectric materials tend to depolarise with age?"
+    },
+    {
+      "answers": [
+        "Thickness measurement",
+        "Magnetostriction transducers",
+        "Lamb wave testing",
+        "Resonance testing"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 20,
+      "prompt": "A nickel rod placed in a coil carrying a current experiences a change in length as a function of the current through coil. This fact explains the basic principle of?"
+    },
+    {
+      "answers": [
+        "Focused probes",
+        "Parallel beam probes",
+        "High frequency probes",
+        "Twin crystal probes"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 21,
+      "prompt": "Material noise consists of low amplitude, random signals from numerous small reflectors irregularly distributed throughout the test piece. This noise may be reduced by the use of?"
+    },
+    {
+      "answers": [
+        "The diameter of the transducer",
+        "The transducers natural thickness resonance",
+        "The velocity of sund in the test material"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 22,
+      "prompt": "The predominant central frequency of an ultrasonic beam is closely related to?"
+    }
+  ],
+  "title": "Lavender 8.4 Quiz",
+  "url": "http://urbaninstitute.github.io/quick-quiz/"
+}

@@ -1,0 +1,166 @@
+// example quiz text
+// @bsouthga
+// <- (this is a comment and will be ignored)
+
+// this is the url for the parent
+url: http://urbaninstitute.github.io/quick-quiz/
+
+// this is the title of the quiz
+# Lavender 8.2 Quiz
+
+// this is an example question.
+// the number signifies the question order,
+// meaning questions can be placed in random order
+// within the file
+
+
+  // these are answers, a correct answer
+  // is indicated by a "*"
+  
+
+  // this is a reponse text paragraph
+  // it will be displayed upon answering
+  // the question correctly
+ 
+
+
+
+
+1) Block E in Figure One below, is being used to?
+
+ - Check beam angle
+ * Calibrate the time base
+ - Measure material thickness
+ - Measure the probe dead zone
+
+2) Block B in Figure One below, is being used to?
+
+ * Measure beam angle
+ - Position the beam exit point
+ - Set sensitivity
+ - Calibrate the time base for an angle probe
+
+3) Block F in Figure One below, is being used to?
+
+ * Check probe resolution
+ - Calibrate the time base
+ - Measure the probe dead zone
+ - Construct a distance amplitude correction curve
+
+4) Block D in Figure One below, is being used to?
+
+ - Position the beam exit point
+ - Calibrate the time base for an angle probe
+ - Check probe resolution for an angle probe
+ * Set sensitivity
+
+5) Block G in Figure One below, is being used to?
+
+ - Measure the probe dead zone
+ - Measure beam angle for a zero degree probe
+ * Set sensitivity
+ - Calibrate the time base
+
+6) Block A in Figure One below, is being use to?
+
+ - Set sensitivity
+ * Position the beam exit point
+ - Measure beam angle
+ - Check probe resolution
+
+7) Block C in Figure One below, is being used to?
+
+ - Measure the probe dead zone
+ - Set sensitivity
+ * Calibrate the time base
+ - Check probe near surface resolution
+
+8) Reference reflectors giving an omnidirectional response are used most often in?
+
+ * Immersion testing
+ - Contact testing
+ - Normal beam testing
+ - Angle beam testing
+
+9) If a flaw echo amplitude is equal of the calibration reflector it is assumed that the flaw is?
+
+ - Smaller than the calibration reflector
+ - Larger than the calibration reflector
+ * At least as large as the calibration reflector
+ - The same shape as the calibration refelctor
+
+10) An increase in pulse length less transducer damping will?
+
+ - Lower the probe frequency
+ * Improve penetration
+ - Improve resolution
+ - Both lower the probe frequency and improve frequency
+
+11) A change in amplitude of 14dBs is equivalent to a ratio of?
+
+ - 2:1
+ - 3.5:1
+ * 5:1
+ - 8:1
+
+12) The use of a focusing lens on a transducer will?
+
+ - Increase side lobe energy, reducing the effects of rough surfaces
+ - Decreased side lobe energy, increasing the effects of rough surfaces
+ - Increase side lobe energy, increasing the effects of rough surfaces
+ * Decrease side lobe energy, decreasing the effects of rough surfaces
+
+13) What is the diameter of the flat bottomed hole in Number 8 ASTM area amplitude block?
+
+ - 8.0mm
+ - 4.8mm
+ * 3.2mm
+ - 0.8mm
+14) The time base has been calibrated using a steel block. Four repeat echoes are shown at 2.5, 5.0, 7.5 and 10.0 on the screen graticule. What signals would be displayed if the probe was placed on a copper test block of the same dimensions with no change to the calibration settings? VL steel 5.9 x 106mm/sec. VL copper 4.7 x 106mm/sec.
+
+ - 2.0, 4.0, 6.0, 8.0
+ - 1.5, 3.0, 4.5, 6.0
+ * 3.1, 6.3, 9.4
+ - 4.3, 8.6
+
+15) The plastic insert in the 50mm diameter hole in the IIW standard calibration block A2 - V1 calibration block is specified to have the absorption characteristics of ... of steel?
+
+ - 25mm
+ * 50mm
+ - 75mm
+ - 100mm
+
+16) To determine the scan index for an immersion system it is necessary to use the effective beam diameter at each metal distance. The effective beam diameter is considered to be at a point which is ... dBs less than the intensity at the beam axis?
+
+ - 20 dB
+ - 12 dB
+ * 6 dB
+ - 2 dB
+
+17) The depth of penetration of Rayleigh waves is?
+
+ - Approximately three wavelengths
+ - Dependent on energy which distributes in a linear way with depth
+ * Frequency dependent
+ - All of the above
+
+18) A block used to establish reproducible test conditions is referred to as?
+
+ - A reference block
+ * A calibration block
+ - A sizing block
+ - A test block
+
+19) If the amplitude of an indication from a flaw in a component is equal to that from a 3mm diameter flat bottomed hole at the same depth. Is the flaw?
+
+ - Larger than the 3mm diameter FBH
+ - The same size as the 3mm diameter FBH
+ * No smaller than the 3mm diameter FBH
+ - smaller than the 3mm diameter FBH
+
+20) When an ultrasonic wave encounters a point reflector the reflected wave is re-radiated as a?
+
+ * Spherical wave front
+ - Plane wave front
+ - Either of them
+ - Neither of them

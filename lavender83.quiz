@@ -1,0 +1,224 @@
+// example quiz text
+// @bsouthga
+// <- (this is a comment and will be ignored)
+
+// this is the url for the parent
+url: http://urbaninstitute.github.io/quick-quiz/
+
+// this is the title of the quiz
+# Lavender 8.3 Quiz
+
+// this is an example question.
+// the number signifies the question order,
+// meaning questions can be placed in random order
+// within the file
+
+
+  // these are answers, a correct answer
+  // is indicated by a "*"
+  
+
+  // this is a reponse text paragraph
+  // it will be displayed upon answering
+  // the question correctly
+ 
+
+
+
+
+1) Which of the following parameters is controlled by the operator using ultrasonic equipment?
+
+ - Material velocity
+ - Material attenuation
+ * Pulse length
+ - Surface geometry
+
+2) The pulse repetition rate on a pulse echo system is adjusted so that reverberations within the test object?
+
+ - Interact and cancel out
+ * Decay completely between pulses
+ - Match the natural frequency of the transducer
+ - Both decay and completely between pulses and match the natural frequency of the
+ transducer
+
+3) What should the minimum water path be for an immersion set up testing a 40mm thick steel plate with a zero degree beam?
+
+ - 8mm
+ - 10mm
+ * 16mm
+ - 20mm
+
+4) A butt weld prep in a 30mm thick plate is a single vee with an included angle of 60 degrees. What probe angle shall be used for the beam to be normal to the weld fusion face in the second half skip?
+
+ - 30 degree
+ - 38 degree
+ - 50 degree
+ * 60 degree
+
+5) A butt weld prep in 10mm thick plate is a single vee with an included angle of 45 degrees, what probe angle shall be used for the ebam to be normal to the weld fusion face in the second half skip?
+
+ - 45 degrees
+ - 54.3 degrees
+ * 67.5 degrees
+ - 70 degrees
+
+6) In the squirter or bubbler system using a column of flowing water, to ensure satisfactory coupling it is essential that the?
+
+- Probe emits a sound wave radially through the water stream
+- Water stream velocity is constant
+* Water stream is free of turbulence causing air bubbles
+- All of the above are essential
+
+7) Test items of many different configurations can be examined with little difficulty applies too?
+
+ * Manual contact testing
+ - Immersion testing
+ - Automated testing
+ - C scan testing
+
+8) Which of the following arrangements would be most suitabel for the detection of a vertical planar defect at mid depth in a double vee plate butt weld?
+
+ - Twin crystal probe system
+ - Immersion probe system
+ * Tandem probe system
+ - Angle probe system
+
+9) Laminations in plate are detected and sized using?
+
+ * A straight beam technique
+ - An angle beam technique
+ - An A scan technique
+ - A pulse echo technique
+
+10) An ultrasonic operator should be aware that the use of reject circuitary may?
+
+ - Reject components that are acceptable
+ - Alter the linearity of the time base
+ - Increase sensitivity to low level signals
+ * Alter the linearity of the amplifier
+
+11) For maximum detection reliability the sound wave should strike a reflector at?
+
+ - Normal incidence
+ - Zero degree incidence
+ - 90 degree incidence
+ * Either normal incidence or 90 degree incidence
+
+12) Couplants used for ultrasonic inspection of stainless steels and high nickel alloys susceptible to stress corrosion cracking should be free from traces of?
+
+ - Water
+ - Cellulose
+ - Oil
+ * Sulphur
+
+13) Ultrasonic signal to noise ratio may be improved by use of?
+
+ - Broad band instrument
+ - Narrow band instrument
+ - Low pass filters
+ * Both narrow band instrument and low pass filters
+
+14) In fine grained, homogenous and isotropic materials which of the following beams will travel the greater distance?
+
+ - Wide beam spread
+ * Narrow beam spread
+ - Beam spread will not affect distance travelled
+ - Polarised beam
+
+15) Using lower frequency probes to decrease attenuation losses will usually result in?
+
+ - Increased sensitivity and decreased resolution
+ - Decreased sensitivity and increased resolution
+ - Increased sensitivity and increased resolution
+ * Decreased sensitivity and decreased resolution
+
+16) An ultrasonic method was used to check the oil level in a steel tank. Multiple backwall echoes were displayed on the screen from the tank above the oil level?   
+
+ * Decreased in amplitude
+ - Increased in amplitude
+ - Were spaced wider apart
+ - Were spaced closer together
+
+17) When using ultrasound to determine microstructural differences which of the following factors is likely to be measured?
+
+ - Grain boundary echo amplitude
+ - Attenuation
+ - Velocity 
+ * Attenuation and velocity
+
+18) One reason that angle beam inspection of weld is used is that?
+
+ - The ultrasonic beam angle can be chosen to be parallel to major defect directions
+ * The transducer does not have to be placed on the weld surface
+ - The wavelength of an angle beam is shorter and will give a higher sensitivity
+ - Zero degree probes are only used for inspecting plate material
+
+19) During ultrasonic inspection of bonding between bearing metal and a steel backing three echoes are seen on the screen: The initial pulse, the interface echo and the back wall echo. The interface echo increases at one point during scanning. The indicates that the bonding?
+
+ - Has improved in that area
+ * Has deteriorated in that area
+ - The steel backing is thinner in that area
+ - The bearing metal is thinner in that area
+
+20) Angle beam testing may be carried out using which of the following modes?
+ 
+ - Surface waves
+ - Longitudinal waves
+ - Shear waves
+ * All the above modes may be used
+
+21) The linear distance between two successive nodes on the same surface when using angle beam testing is called the?
+
+ * Skip distance
+ - Resonance length
+ - Wave length
+ - Cycle length
+
+22) Which of the following flaws is most likely to have been detected? Swivelling the search unit to either side away from the direction of maximum echo amplitude causes the peak to fall rapidly accompanied by a slight shift to the right on the time base. Traversing the search unit in an arc causes the echo signal to broaden slightly and fall rapidly with no change in position.
+
+ - Gas pore
+ * Crack
+ - Slag
+ - Clustered porosity
+
+23) 30mm thick steel plates 1.5m wide are stacked 20 high. Preliminary screening for laminations could be carried out by?
+
+ * Scanning from the edge at right angles to the direction of rolling
+ - Scanning with a low frequency probe from the top surface of the stack
+ - Removing each plate from the stack and scanning a grid system from the top surface
+ - Scanning with a probe array from the top surface of the stack
+
+24) Which of the following ultrasonic methods involves only the measurement of signal attenuation?
+
+ - Immersion
+ - Pulse echo
+ * Through transmission
+ - Spectral analysis
+
+25) Which of the following techniques requires only one transducer type regardless of the incident angle?
+
+ - Through transmission
+ - Pulse echo
+ * Immersion
+ - Crack tip diffraction
+
+26) In straight beam immersion inspection the water path is generally adjusted to require a ... than the depth of scan?
+
+ * Longer transit time
+ - Longer beam path
+ - Shorter transit time
+ - Shorter beam path
+
+27) Acoustic lenses are used for contour correction such that in the straight beam inspection of tubing where the transducer is inside the tube the preferred beam is?
+
+ - Narrow and converging
+ - Narrow and parallel
+ * Narrow and diverging
+ - Wide and parallel
+
+28) Materials exhibiting a columnar grain structure are more likely to?
+
+ - Show isotropic elastic behaviour
+ * Show better ultrasound propagation in certain preferred directions
+ - Show both isotropic elastic behaviour and show better ultrasound propagation in certain preferred directions
+ - Have less attenuation characteristics than similar homogenous materials

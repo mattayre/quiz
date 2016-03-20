@@ -1,0 +1,276 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "1.5mm",
+        "3.2mm",
+        "4.2mm",
+        "6.0mm"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 2,
+      "prompt": "A 60 degree shear wave is used to inspect a 100mm diameter steel bar in a circumferential direction. An indication is located from a point defect at a beam path of 40mm. What is the depth of this defect below the bar surface [Cosine rule a2=b2+c 2 -2 bc cos A] ?"
+    },
+    {
+      "answers": [
+        "40 degree",
+        "45 degree",
+        "50 degree",
+        "55 degree"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 3,
+      "prompt": "What probe angle is required to meet the requirements shown in Figure One below?"
+    },
+    {
+      "answers": [
+        "20%",
+        "18%",
+        "16%",
+        "10%"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 4,
+      "prompt": "The next six questions are based on the information in Table One at the bottom of the page. What screen height response will be given by a 2.5mm dia FBH under the same conditions?"
+    },
+    {
+      "answers": [
+        "43%",
+        "39%",
+        "35%",
+        "30%"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 5,
+      "prompt": "What screen height response will be given by a 4.0mm dia FBH under the same conditions?"
+    },
+    {
+      "answers": [
+        "70%",
+        "65%",
+        "61%",
+        "57%"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 6,
+      "prompt": "What screen height response will be given by a 5.0mm dia FBH under the same conditions?"
+    },
+    {
+      "answers": [
+        "5.4",
+        "5 .2"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 7,
+      "prompt": "What diameter of FBH will give a screen response of 65% under the same conditions?"
+    },
+    {
+      "answers": [
+        "3.2",
+        "3.5",
+        "3.8",
+        "4.2"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 8,
+      "prompt": "What diameter of FBH will give a screen response of 35% under the same conditions?"
+    },
+    {
+      "answers": [
+        "6.3",
+        "6.1",
+        "5.8",
+        "5.6"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 9,
+      "prompt": "What diameter of FBH will give a screen response of 90% under the same conditions?"
+    },
+    {
+      "answers": [
+        "28mm",
+        "112mm",
+        "127mm",
+        "168mm"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 10,
+      "prompt": "Calculate the focal length in water of an ultrasonic probe fitted with an epoxy lens having a radius of curvature of 56mm.. VL epoxy = 2.7 x 106mm/sec, VL water = 1.5 x 106mm/sec?"
+    },
+    {
+      "answers": [
+        "3.5mm",
+        "5.0mm",
+        "7.0mm",
+        "10.5mm"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 11,
+      "prompt": "Calculate the offset required for an immersion probe to create a 45 degree shear wave in a steel bar having a radius of 21mm?"
+    },
+    {
+      "answers": [
+        "5.5",
+        "8.5",
+        "10.5",
+        "12.5"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 12,
+      "prompt": "Calculate the offset required for an immersion probe to create a 60 degree shear wave in a steel..water = 1.5 x 106 mm/sec, Vs steel = 3.2 x 106 mm/sec?"
+    },
+    {
+      "answers": [
+        "5%",
+        "20%",
+        "48%",
+        "72%"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 13,
+      "prompt": "Using Figure Two below, how much energy will be transmitted through water to aluminium interface by a longitudinal angle beam created by an 11 degree angle of incidence?"
+    },
+    {
+      "answers": [
+        "0.09 dB/mm",
+        "14.9 dB/mm",
+        "1.49 dB/mm",
+        "0.90 dB/mm"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 14,
+      "prompt": "Calculate the apparent attenuation from the following information. Amplitude of second back wall echo = 84% FSH, Amplitude of sixth back wall echo = 15% FSH, Thickness of Material = 20mm?"
+    },
+    {
+      "answers": [
+        "4 dB",
+        "6 dB",
+        "9 dB",
+        "12 dB"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 15,
+      "prompt": "Calculate the dB difference between 5/64 inch FBH and 3/64 inch FBH?"
+    },
+    {
+      "answers": [
+        "7068 x 104 dynes/cm2",
+        "146 x 106 dynes/cm2",
+        "53 x 104 dynes/cm2",
+        "5074 x 105 dynes/cm2"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 16,
+      "prompt": "It is possible to approximately calculate the elastic modulus of material by determination of the longitudinal and transverse velocities of sound in that material. Calculate Youngs Modulus of Elasticity from the information in Table Two below?"
+    },
+    {
+      "answers": [
+        "30.4 degrees",
+        "45.8 degrees",
+        "57.5 degrees",
+        "60.6 degrees"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 17,
+      "prompt": "Calculate the incident angle required to produce Rayleigh waves in aluminium...VL \u00a06.35 x 106 mm/sec, Vp 2.7 x 106 mm/sec, VL 3.1 x 106 mm/sec?"
+    },
+    {
+      "answers": [
+        "15mm",
+        "1.5mm",
+        "7.5mm",
+        "3.75mm"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 18,
+      "prompt": "A 6 MHz longitudinal pulse of ultrasound is transmitted at a pulse repetition rate of 800 pulses per second. To what theoretical depth in steel can this pulse travel and return before the next pulse is initiated.. Longitudinal velocity in steel VL x 6.0 x 106 mm/sec?"
+    },
+    {
+      "answers": [
+        "0.087 dBs per mm",
+        "0.125 dBs per mm",
+        "0.175 dBs per mm",
+        "0.25 dBs per mm"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 19,
+      "prompt": "Calculate the attenuation of a test material where the gain difference between the second and fourth back wall echoes is 20sBs. The material thickness is 40mm and take into consideration the natural loss of 6dB between double distance back wall echoes?"
+    },
+    {
+      "answers": [
+        "12 degrees",
+        "7.4 degrees",
+        "6 degrees",
+        "4.8 degrees"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 20,
+      "prompt": "Calculate the half beam spread angle when considering beam extremities that are 1/10 of the intensity of the axis. The 10mm diameter transducer is producing ultrasound at 5MHz into steel at zero degrees... VL steel 6 x 106 mm/sec, Vs steel 3.2 x 106 mm/sec?"
+    },
+    {
+      "answers": [
+        "4.8 degrees",
+        "8.4 degrees",
+        "9.6 degrees",
+        "16.8 degrees"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 21,
+      "prompt": "Calculate the total beam spread angle when considering beam extremities that are one half of the intensity at the axis. The 25mm diameter transducer is producing ultrasound at 2 MHz into steel at zerodegrees.. VL steel 6 x 106 mm/sec, Vs steel 3.2 x 106 mm/sec?"
+    },
+    {
+      "answers": [
+        "2.6mm",
+        "26mm",
+        "65mm"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 22,
+      "prompt": "Calculate the near field length for a zero degree 2.5MHz, 25mm diameter single crystal transducer transmitting ultrasound into a steel forging using a polycell couplant VL steel 6 x 106 mm/sec, Vs steel 3.2 x 106 mm/sec?"
+    }
+  ],
+  "title": "Lavender 8.5 Quiz",
+  "url": "http://urbaninstitute.github.io/quick-quiz/"
+}

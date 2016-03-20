@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "the normal angle of incidence \u2028",
+        "the first critical angle \u2028",
+        "the angle of maximum reflection \u2028",
+        "the second critical angle"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "\u2028"
+      },
+      "number": 1,
+      "prompt": "The angle at which the shear component of an incident beam is refracted at 90 degrees to the normal is called?"
+    },
+    {
+      "answers": [
+        "decreases \u2028",
+        "remains constant \u2028",
+        "increases \u2028",
+        "varies uniformly through each wavelength"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "\u2028"
+      },
+      "number": 2,
+      "prompt": "As frequency increases in ultrasonic testing the angle of beam divergence of a given diameter crystal?"
+    },
+    {
+      "answers": [
+        "its thickness \u2028",
+        "the velocity of sound in the crystal material \u2028",
+        "both A and B above \u2028",
+        "its diameter"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "\u2028"
+      },
+      "number": 3,
+      "prompt": "The fundamental frequency of a piezo-electric crystal used in ultrasonic probes is a function of?"
+    },
+    {
+      "answers": [
+        "the wavelength is shorter \u2028",
+        "shear waves are not as easily dispersed in the material \u2028",
+        "the direction of particle vibration of shear is more sensitive \u2028",
+        "the wavelength of shear waves is longer \u2028"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 4,
+      "prompt": "Shear waves are generally more sensitive to fine discontinuities for a given frequency than longitudinal waves because?"
+    },
+    {
+      "answers": [
+        "reference blocks \u2028",
+        "flat bottomed holes \u2028",
+        "a theoretical maximum \u2028",
+        "DAC"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "\u2028"
+      },
+      "number": 6,
+      "prompt": "DGS diagrams compare flaw signal amplitudes to?"
+    },
+    {
+      "answers": [
+        "probe diameter \u2028",
+        "flat-bottomed hole size \u2028",
+        "gain \u2028"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 9,
+      "prompt": "The vertical axis of the DGS diagram represents?"
+    }
+  ],
+  "title": "Bindt Quiz",
+  "url": "http://urbaninstitute.github.io/quick-quiz/"
+}
